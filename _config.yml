@@ -1,17 +1,12 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
+#======================================
 # Site Settings
+#======================================
 locale                   : "en-US"
 title                    : "Dr. Gianluca Bianco"
 title_separator          : "-"
 name                     : &name "Gianluca Bianco"
 description              : &description "PhD student at the university of Bologna and associate member of INFN"
-url                      : https://JustWhit3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://JustWhit3.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JustWhit3.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -49,13 +44,17 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+#======================================
 # SEO Related
+#======================================
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
+#======================================
 # Social Sharing
+#======================================
 twitter:
   username               : &twitter
 facebook:
@@ -70,24 +69,26 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-
+#======================================
 # Analytics
+#======================================
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
-
+#======================================
 # Site Author
+#======================================
 author:
   name             : "Dr. Gianluca Bianco"
   avatar           : "profile_picture.png"
-  bio              : "PhD student at the university of Bologna and associate member of INFN, expert of computing and data analysis is particle physics"
+  bio              : "PhD student and teaching tutor at the university of Bologna (department of Physics and Astronomy), associate member of INFN and member of the CERN ATLAS experiment"
   location         : "Bologna, Italy"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            :  gianluca.bianco4@unibo.it
   researchgate     : "https://www.researchgate.net/profile/Gianluca-Bianco-2?ev=hdr_xprf&_sg=aEJBdojMRi0wMPqs0j9NvgSxFURVNRp69MWmswnDjMgcyn5H1d6DF2BxqrK1O-fcraO7Q5TVA645hj4lvxOBQQps"
   uri              :
   bitbucket        :
