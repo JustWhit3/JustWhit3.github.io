@@ -1,6 +1,6 @@
 ---
 title: "useful-guides"
-excerpt: A set of useful guides I wrote for beginners.<br/><img src='/images/coding.jpeg' width="600">
+excerpt: A set of useful guides I wrote for beginners.<br/><br/><img src='/images/coding.jpeg' width="600">
 collection: software
 ---
 

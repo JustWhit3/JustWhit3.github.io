@@ -1,6 +1,6 @@
 ---
 title: "osmanip"
-excerpt: Library with useful output stream tools like color and styles manipulators, progress bars and much more.<br/><img src='/images/osmanip.png' width="600">
+excerpt: Library with useful output stream tools like color and styles manipulators, progress bars and much more.<br/><br/><img src='/images/osmanip.png' width="600">
 collection: software
 ---
 
