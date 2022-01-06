@@ -11,15 +11,15 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Research activity"
+    url: /research/  
+
   #- title: "Projects"
   #  url: /projects/
 
 #=====================================
 # Excluded links
-#=====================================
-
-  - title: "Teaching"
-    url: /teaching/    
+#=====================================  
 
   #- title: "Blog Posts"
   #  url: /year-archive/
