@@ -9,6 +9,6 @@ date: 2022-02-10
 venue: 'Nuovo Cimento 45 (soon)'
 paperurl: ''
 citation: 'G. Bianco, &quot;A method for the study of the quantum interference between singly and doubly resonant top-quark production in proton-proton collisions at the LHC
-with the ATLAS detector,</i>Nuovo Cimento 45</i>, (2022).'
+with the ATLAS detector, </i>Nuovo Cimento 45</i>, (2022).'
 ---
 *More info soon...*
