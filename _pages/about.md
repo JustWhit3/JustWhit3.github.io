@@ -1,14 +1,12 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "About me <br/><img src='https://github.com/JustWhit3/JustWhit3.github.io/blob/main/files/emc.jpeg'>"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<img src="https://github.com/JustWhit3/JustWhit3.github.io/blob/main/files/emc.jpeg" width="400">
-
 I am a PhD student in particle physics and teaching tutor at the [*Alma Mater Studiorum - University of Bologna*](https://www.unibo.it/it), associate member of the [*Istituto Nazionale di Fisica Nucleare* (INFN)](https://www.bo.infn.it/) - Bologna section and member of the CERN [*ATLAS* experiment](https://atlas.cern/).
 
 My scientific interests are related to elementary particle physics and in particular to top-quark studies. I am actually part of the ATLAS top-quark analysis team and also work into the technical detector upgrade field, with particular focus on the ATLAS muon spectrometer analysis studies.
