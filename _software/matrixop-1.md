@@ -1,6 +1,6 @@
 ---
 title: "matrixop"
-excerpt: Library to manage operations with matrices.<br/><img src='/images/matrices.jpg'>
+excerpt: Library to manage operations with matrices.<br/><img src='/images/matrices.jpg' width="600">
 collection: software
 ---
 
