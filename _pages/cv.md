@@ -29,22 +29,19 @@ Scientific experience
 Teaching experience
 ======
 
-* (02/2021 - Now) - **Teaching tutor**, University of Bologna, Bologna, Bologna, Italy
-  Courses:
+* (02/2021 - Now) - **Teaching tutor**, University of Bologna, Bologna, Bologna, Italy. Courses:
   * *Fenomeni termici* at bachelor of physics.
   * *Laboratorio di Elettromagnetismo e Ottica [Modulo 3]* at bachelor of physics.
   * *Laboratorio di Meccanica e Termodinamica [Modulo 4]* at bachelor of physics.
   * *Fisica Generale T* at building engineering.
 
-* (03/2021 - Now) - **Mentor**, HEP Software Foundation, Online
-  Courses:
+* (03/2021 - Now) - **Mentor**, HEP Software Foundation, Online. Courses:
   * *HEP C++ Course and Hands-on Training*.
 
 Outreach experience
 ======
 
-* (01/2021 - 06/2021) - **Outreach tutor**, University of Bologna, Bologna, Bologna, Italy
-  Activities:
+* (01/2021 - 06/2021) - **Outreach tutor**, University of Bologna, Bologna, Bologna, Italy. Activities:
   * *Officina-Laboratorio* at physics.
 
 * (02/2021 - 05/2021) - **Active member** of the CERN ATLAS experiment data and tools group, CERN, Online
@@ -52,8 +49,7 @@ Outreach experience
 Awards
 ======
 
-* (08/2021) - **3rd place at the ”Annamaria Cartacci” award** for the best experimental particle physics
-M.S thesis of year 2020
+* (08/2021) - **3rd place at the ”Annamaria Cartacci” award** for the best particle physics M.S thesis of year 2020
 * (07/2021) - **Postgraduate fellowship** for scientific training activities
 * (07/2021) - **PhD fellowship** of INFN in Physics
 * (07/2021) - **PhD fellowship** of INFN in Data Science and Computation
