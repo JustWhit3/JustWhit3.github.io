@@ -4,7 +4,7 @@ and doubly resonant top-quark production in proton-proton collisions at the LHC
 with the ATLAS detector"
 collection: publications
 permalink: /publication/2022-02-10-proceeding
-excerpt: 'Proceeding'
+excerpt: '<i>Proceeding</i>'
 date: 2022-02-10
 venue: 'Nuovo Cimento 45 (soon)'
 paperurl: ''
