@@ -14,40 +14,42 @@ redirect_from:
 Education
 ======
 
-* (11/2021 - Now) - **Ph.D** in *Elementary Particle Physics*, Alma Mater Studiorum - Università di Bologna
-* (10/2018 - 12/2020) - **M.S.** in *Nuclear and Subnuclear Physics*, Alma Mater Studiorum - Università di Bologna
-* (10/2015 - 07/2018) - **B.S.** in *Physics*, Alma Mater Studiorum - Università di Bologna
+* (11/2021 - Now) - **Ph.D** in *Elementary Particle Physics*, Alma Mater Studiorum - Università di Bologna, Bologna, Italy
+* (10/2018 - 12/2020) - **M.S.** in *Nuclear and Subnuclear Physics*, Alma Mater Studiorum - Università di Bologna, Bologna, Italy
+* (10/2015 - 07/2018) - **B.S.** in *Physics*, Alma Mater Studiorum - Università di Bologna, Bologna, Italy
 
 Research experience
 ======
 
-* (11/2021 - Now) - **Doctoral researcher** at the CERN ATLAS experiment, INFN
-* (07/2021 - 10/2021) - **Postgraduate researcher** at the CERN ATLAS experiment, INFN
-* (04/2020 - 11/2020) - **Master's degree trainee** at the CERN ATLAS experiment, INFN
-* (12/2019 - 05/2020) - **Tandem project trainee** at the CERN ATLAS experiment, iTHEPHY
+* (11/2021 - Now) - **Doctoral researcher** at the CERN ATLAS experiment, INFN, Bologna, Italy
+* (07/2021 - 10/2021) - **Postgraduate researcher** at the CERN ATLAS experiment, INFN, Bologna, Italy
+* (04/2020 - 11/2020) - **Master's degree trainee** at the CERN ATLAS experiment, INFN, Bologna, Italy
+* (12/2019 - 05/2020) - **Tandem project trainee** at the CERN ATLAS experiment, iTHEPHY, Bologna, Italy
 
 Teaching experience
 ======
 
-* (02/2021 - Now) - **Teaching tutor**, Alma Mater Studiorum - Università di Bologna
-Courses:
+* (02/2021 - Now) - **Teaching tutor**, Alma Mater Studiorum - Università di Bologna, Bologna, Italy
+  
+  Courses:
   * *Fenomeni termici* at bachelor of physics.
   * *Laboratorio di Elettromagnetismo e Ottica [Modulo 3]* at bachelor of physics.
   * *Laboratorio di Meccanica e Termodinamica [Modulo 4]* at bachelor of physics.
   * *Fisica Generale T* at building engineering.
 
-* (03/2021 - Now) - **Mentor**, HEP Software Foundation
-Courses:
+* (03/2021 - Now) - **Mentor**, HEP Software Foundation, Online
+  
+  Courses:
   * *HEP C++ Course and Hands-on Training*.
 
 Outreach experience
 ======
 
-* (01/2021 - 06/2021) - **Outreach tutor**, Alma Mater Studiorum - Università di Bologna
+* (01/2021 - 06/2021) - **Outreach tutor**, Alma Mater Studiorum - Università di Bologna, Bologna, Italy
 Activities:
   * *Officina-Laboratorio* at physics.
 
-* (02/2021 - 05/2021) - **Active member** of the CERN ATLAS experiment data and tools outreach group, Alma Mater Studiorum - Università di Bologna
+* (02/2021 - 05/2021) - **Active member** of the CERN ATLAS experiment data and tools group, CERN, Online
   
 Skills
 ======
