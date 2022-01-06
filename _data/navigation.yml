@@ -2,14 +2,14 @@
 # Main links
 #=====================================
 main:
-  - title: "CV"
-    url: /cv/
-
   - title: "Research activity"
     url: /research/  
 
   - title: "Software"
     url: /software/
+    
+  - title: "Curriculum vitae"
+    url: /cv/
 
   - title: "Publications"
     url: /publications/
