@@ -14,8 +14,8 @@ main:
   - title: "Research activity"
     url: /research/  
 
-  - title: "Projects"
-    url: /projects/
+  - title: "Software"
+    url: /software/
 
 #=====================================
 # Excluded links
