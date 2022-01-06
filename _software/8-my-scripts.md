@@ -1,9 +1,9 @@
 ---
-title: "latex-feynman-diagrams"
-excerpt: A collection of Feynman diagrams I draw using the TikZ-Feynman package of LaTeX.<br/><img src='/images/feynman.png' width="600">
+title: "my-scripts"
+excerpt: A collection of scripts I developed for personal and working projects.<br/><img src='/images/script.png' width="600">
 collection: software
 ---
 
-This repository contains a collection of Feynman diagrams I draw using the [TikZ-Feynman](https://github.com/JP-Ellis/tikz-feynman) package of LaTeX. The diagrams are not physically explained and contain also a brief description under each of them.
+This repository contains some scripts I write for other personal and working projects. I keep them here for two reasons: first, to keep them easily accessible to me in case of the needing to retrieve some parts of code; secondly, to let everybody accessing them freely.
 
-[Project link](https://github.com/JustWhit3/latex-feynman-diagrams)
+[Project link](https://github.com/JustWhit3/my-scripts)
