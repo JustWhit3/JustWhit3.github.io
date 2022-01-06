@@ -50,9 +50,25 @@ Activities:
   * *Officina-Laboratorio* at physics.
 
 * (02/2021 - 05/2021) - **Active member** of the CERN ATLAS experiment data and tools group, CERN, Online
-  
+
+Awards
+======
+
+* (08/2021) - **3rd place at the ”Annamaria Cartacci” award** for the best experimental particle physics
+M.S thesis of year 2020
+* (07/2021) - **Postgraduate fellowship** for scientific training activities
+* (07/2021) - **PhD fellowship** of INFN in Physics
+* (07/2021) - **PhD fellowship** of INFN in Data Science and Computation
+
 Skills
 ======
+
+## Languages
+
+* **Italian**: mother tongue.
+* **English**: C1.
+* **Spanish**: A2.
+
 
 ## Software and Computing
 
