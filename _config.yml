@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Gianluca Bianco"
-  avatar           : "profile_picture.png"
+  avatar           : "profile.png"
   bio              : "PhD student at the university of Bologna and associate member of INFN, expert of computing and data analysis is particle physics"
   location         : "Bologna, Italy"
   employer         :
@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  projects:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _projects
+  # _portfolio
   - scope:
       path: ""
-      type: projects
+      type: portfolio
     values:
       layout: single
       author_profile: true
