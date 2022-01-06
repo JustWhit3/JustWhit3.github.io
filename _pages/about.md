@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br/><img src='https://github.com/JustWhit3/JustWhit3.github.io/blob/main/images/emc.jpeg'>
+<br/><img src='http://JustWhit3.github.io/files/emc.jpeg'>
 
 I am a PhD student in particle physics and teaching tutor at the [*Alma Mater Studiorum - University of Bologna*](https://www.unibo.it/it), associate member of the [*Istituto Nazionale di Fisica Nucleare* (INFN)](https://www.bo.infn.it/) - Bologna section and member of the CERN [*ATLAS* experiment](https://atlas.cern/).
 
