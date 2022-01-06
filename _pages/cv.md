@@ -14,11 +14,11 @@ redirect_from:
 Education
 ======
 
-* (11/2021 - Now) - **Ph.D** in *Elementary Particle Physics*, Alma Mater Studiorum - Università di Bologna, Bologna, Italy
-* (10/2018 - 12/2020) - **M.S.** in *Nuclear and Subnuclear Physics*, Alma Mater Studiorum - Università di Bologna, Bologna, Italy
-* (10/2015 - 07/2018) - **B.S.** in *Physics*, Alma Mater Studiorum - Università di Bologna, Bologna, Italy
+* (11/2021 - Now) - **Ph.D** in *Elementary Particle Physics*, University of Bologna, Bologna, Italy
+* (10/2018 - 12/2020) - **M.S.** in *Nuclear and Subnuclear Physics*, University of Bologna, Bologna, Bologna, Italy
+* (10/2015 - 07/2018) - **B.S.** in *Physics*, University of Bologna, Bologna, Bologna, Italy
 
-Research experience
+Scientific experience
 ======
 
 * (11/2021 - Now) - **Doctoral researcher** at the CERN ATLAS experiment, INFN, Bologna, Italy
@@ -29,8 +29,7 @@ Research experience
 Teaching experience
 ======
 
-* (02/2021 - Now) - **Teaching tutor**, Alma Mater Studiorum - Università di Bologna, Bologna, Italy
-  
+* (02/2021 - Now) - **Teaching tutor**, University of Bologna, Bologna, Bologna, Italy
   Courses:
   * *Fenomeni termici* at bachelor of physics.
   * *Laboratorio di Elettromagnetismo e Ottica [Modulo 3]* at bachelor of physics.
@@ -38,15 +37,14 @@ Teaching experience
   * *Fisica Generale T* at building engineering.
 
 * (03/2021 - Now) - **Mentor**, HEP Software Foundation, Online
-  
   Courses:
   * *HEP C++ Course and Hands-on Training*.
 
 Outreach experience
 ======
 
-* (01/2021 - 06/2021) - **Outreach tutor**, Alma Mater Studiorum - Università di Bologna, Bologna, Italy
-Activities:
+* (01/2021 - 06/2021) - **Outreach tutor**, University of Bologna, Bologna, Bologna, Italy
+  Activities:
   * *Officina-Laboratorio* at physics.
 
 * (02/2021 - 05/2021) - **Active member** of the CERN ATLAS experiment data and tools group, CERN, Online
