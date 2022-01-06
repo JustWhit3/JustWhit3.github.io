@@ -2,7 +2,7 @@
 # Site Settings
 #======================================
 locale                   : "en-US"
-title                    : "Dr. Gianluca Bianco"
+title                    : "Dr. Gianluca Bianco's website"
 title_separator          : "-"
 name                     : &name "Gianluca Bianco"
 description              : &description "PhD student at the university of Bologna and associate member of INFN"
