@@ -1,4 +1,6 @@
-# main links links
+#=====================================
+# Main links
+#=====================================
 main:
   - title: "Publications"
     url: /publications/
@@ -6,17 +8,22 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  - title: "Experience"
+    url: /experience/
+
+  #- title: "Projects"
+  #  url: /projects/
+
+#=====================================
+# Excluded links
+#=====================================
+
   #- title: "Teaching"
   #  url: /teaching/    
     
-  - title: "Projects"
-    url: /projects/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "Experience"
-    url: /experience/
+
+  #- title: "Blog Posts"
+  #  url: /year-archive/
     
   #- title: "Guide"
   #  url: /markdown/
