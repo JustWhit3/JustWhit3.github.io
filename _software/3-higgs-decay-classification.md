@@ -4,7 +4,6 @@ excerpt: Classification of Higgs boson decays using machine learning.<br/><img s
 collection: software
 ---
 
-
 Study of the Higgs boson Yukawa coupling to tau leptons using the 2012 ATLAS Run-2 dataset. Particular focus is dedicated to the usage of machine learning classification algorithms to classify the Higgs decay channel H to tautau as signal with respect to the other background processes.
 
 For the classification have been considered the cases in which there are 0,1 or 2 jets in the final state.
