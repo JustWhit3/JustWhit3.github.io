@@ -4,7 +4,7 @@ excerpt: <i>Offline detector analysis</i> <br/><br/><img src='/images/spectromet
 collection: research
 ---
 
-Development of tools which evaluate the impact of RPC detector defects on RPC data quality that will be used for offline performance studies of the RPC detector itself.
+My work is focused on developing offline tools for data quality (DQ) monitoring of RPC detector status for Run 3 operations. These tools will evaluate impact of RPC detector defects on RPC DQ. This information will be then used for ATLAS data analysis assessment and for offline performance studies of RPC detector.
 
 Contributions:
 
