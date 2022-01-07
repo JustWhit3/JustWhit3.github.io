@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-</hr style="height:0.3px;border:none;color:gray;background-color:gray;" />
+<hr style="height:0.3px;border:none;color:gray;background-color:gray;" />
 
 <br/><img src='http://JustWhit3.github.io/images/emc.jpeg'>
 
