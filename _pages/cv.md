@@ -14,45 +14,45 @@ redirect_from:
 Education
 ======
 
-* (11/2021 - Now) - **Ph.D** in *Elementary Particle Physics*, University of Bologna, Bologna, Italy
-* (10/2018 - 12/2020) - **M.S.** in *Nuclear and Subnuclear Physics*, University of Bologna, Bologna, Bologna, Italy
-* (10/2015 - 07/2018) - **B.S.** in *Physics*, University of Bologna, Bologna, Bologna, Italy
+* (11/2021 - Now): **Ph.D** in *Elementary Particle Physics*, University of Bologna, Bologna, Italy
+* (10/2018 - 12/2020): **M.S.** in *Nuclear and Subnuclear Physics*, University of Bologna, Bologna, Bologna, Italy
+* (10/2015 - 07/2018): **B.S.** in *Physics*, University of Bologna, Bologna, Bologna, Italy
 
 Scientific experience
 ======
 
-* (11/2021 - Now) - **Doctoral researcher** at the CERN ATLAS experiment, INFN, Bologna, Italy
-* (07/2021 - 10/2021) - **Postgraduate researcher** at the CERN ATLAS experiment, INFN, Bologna, Italy
-* (04/2020 - 11/2020) - **Master's degree trainee** at the CERN ATLAS experiment, INFN, Bologna, Italy
-* (12/2019 - 05/2020) - **Tandem project trainee** at the CERN ATLAS experiment, iTHEPHY, Bologna, Italy
+* (11/2021 - Now): **Doctoral researcher** at the CERN ATLAS experiment, INFN, Bologna, Italy
+* (07/2021 - 10/2021): **Postgraduate researcher** at the CERN ATLAS experiment, INFN, Bologna, Italy
+* (04/2020 - 11/2020): **Master's degree trainee** at the CERN ATLAS experiment, INFN, Bologna, Italy
+* (12/2019 - 05/2020): **Tandem project trainee** at the CERN ATLAS experiment, iTHEPHY, Bologna, Italy
 
 Teaching experience
 ======
 
-* (02/2021 - Now) - **Teaching tutor**, University of Bologna, Bologna, Bologna, Italy. Courses:
-  * *Fenomeni termici* at bachelor of physics.
-  * *Laboratorio di Elettromagnetismo e Ottica [Modulo 3]* at bachelor of physics.
-  * *Laboratorio di Meccanica e Termodinamica [Modulo 4]* at bachelor of physics.
-  * *Fisica Generale T* at building engineering.
+* (02/2021 - Now): **Teaching tutor**, University of Bologna, Bologna, Bologna, Italy. Courses:
+  * [*Fenomeni termici*](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/434312) at bachelor of physics.
+  * [*Laboratorio di Elettromagnetismo e Ottica [Modulo 3]*](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/434322) at bachelor of physics.
+  * [*Laboratorio di Meccanica e Termodinamica [Modulo 4]*](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/434313) at bachelor of physics.
+  * [*Fisica Generale T*](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2020/414325) at building engineering.
 
-* (03/2021 - Now) - **Mentor**, HEP Software Foundation, Online. Courses:
-  * *HEP C++ Course and Hands-on Training*.
+* (03/2021 - Now): **Mentor**, HEP Software Foundation, Online. Courses:
+  * [*HEP C++ Course and Hands-on Training*](https://indico.cern.ch/event/1019089/).
 
 Outreach experience
 ======
 
-* (01/2021 - 06/2021) - **Outreach tutor**, University of Bologna, Bologna, Bologna, Italy. Activities:
-  * *Officina-Laboratorio* at physics.
+* (01/2021 - 06/2021): **Outreach tutor**, University of Bologna, Bologna, Bologna, Italy. Activities:
+  * [*Officina-Laboratorio*](http://www.pls.unibo.it/it/fisica/attivita/a.a.-2020-2021/laboratori-per-studenti/officina-laboratorio) at physics.
 
-* (02/2021 - 05/2021) - **Active member** of the CERN ATLAS experiment data and tools group, CERN, Online
+* (02/2021 - 05/2021): **Active member** of the CERN ATLAS experiment data and tools group, CERN, Online
 
 Awards
 ======
 
-* (08/2021) - **3rd place at the ”Annamaria Cartacci” award** for the best particle physics M.S thesis of year 2020
-* (07/2021) - **Postgraduate fellowship** for scientific training activities
-* (07/2021) - **PhD fellowship** of INFN in Physics
-* (07/2021) - **PhD fellowship** of INFN in Data Science and Computation
+* (08/2021): **3rd place at the ”Annamaria Cartacci” award** for the best particle physics M.S thesis of year 2020
+* (07/2021): **Postgraduate fellowship** for scientific training activities
+* (07/2021): **PhD fellowship** of INFN in Physics
+* (07/2021): **PhD fellowship** of INFN in Data Science and Computation
 
 Skills
 ======
