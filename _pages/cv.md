@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-</hr style="height:0.3px;border:none;color:gray;background-color:gray;" />
-
 [Direct link to my curriculum pdf](http://JustWhit3.github.io/files/cv.pdf)
+
+</hr style="height:0.3px;border:none;color:gray;background-color:gray;" />
 
 {% include base_path %}
 
