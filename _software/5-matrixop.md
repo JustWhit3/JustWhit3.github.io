@@ -1,6 +1,6 @@
 ---
 title: "matrixop"
-excerpt: Library to manage operations with matrices.<br/><br/><img src='/images/matrices.jpg' width="600">
+excerpt: <b><span style="color:red;">Keywords</span></b> - <i>Linear algebra, C++, matrices</i>. <br/><br/>Library to manage operations with matrices.<br/><br/><img src='/images/matrices.jpg' width="600">
 collection: software
 ---
 

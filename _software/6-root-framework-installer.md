@@ -1,6 +1,6 @@
 ---
 title: "root-framework-installer"
-excerpt: A shell script to automatically install the ROOT framework on Ubuntu, Windows or MacOS operating systems.<br/><br/><img src='/images/root.png' width="600">
+excerpt: <b><span style="color:red;">Keywords</span></b> - <i>Bash, ROOT, script</i>. <br/><br/>A shell script to automatically install the ROOT framework on Ubuntu, Windows or MacOS operating systems.<br/><br/><img src='/images/root.png' width="600">
 collection: software
 ---
 

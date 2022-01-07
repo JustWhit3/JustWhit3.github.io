@@ -1,6 +1,6 @@
 ---
 title: "osmanip"
-excerpt: Library with useful output stream tools like color and styles manipulators, progress bars and much more.<br/><br/><img src='/images/osmanip.png' width="600">
+excerpt: <b><span style="color:red;">Keywords</span></b> - <i>C++, Bash, GNU make</i>. <br/><br/>Library with useful output stream tools like color and styles manipulators, progress bars and much more.<br/><br/><img src='/images/osmanip.png' width="600">
 collection: software
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "my-scripts"
-excerpt: A collection of scripts I developed for personal and working projects.<br/><br/><img src='/images/script.png' width="600">
+excerpt: <b><span style="color:red;">Keywords</span></b> - <i>Python, Bash, Scripts</i>. <br/><br/>A collection of scripts I developed for personal and working projects.<br/><br/><img src='/images/script.png' width="600">
 collection: software
 ---
 

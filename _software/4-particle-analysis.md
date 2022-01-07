@@ -1,6 +1,6 @@
 ---
 title: "particle-analysis"
-excerpt: A project to simulate and analyse interactions with particles using the ROOT framework.<br/><br/><img src='/images/CanvasA.png' width="600">
+excerpt: <b><span style="color:red;">Keywords</span></b> - <i>C++, particle physics, ROOT, data analysis</i>. <br/><br/>A project to simulate and analyse interactions with particles using the ROOT framework.<br/><br/><img src='/images/CanvasA.png' width="600">
 collection: software
 ---
 

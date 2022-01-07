@@ -1,6 +1,6 @@
 ---
 title: "latex-feynman-diagrams"
-excerpt: A collection of Feynman diagrams I draw using the TikZ-Feynman package of LaTeX.<br/><br/><img src='/images/feynman.png' width="600">
+excerpt: <b><span style="color:red;">Keywords</span></b> - <i>Latex, TikZ, particle physics</i>. <br/><br/>A collection of Feynman diagrams I draw using the TikZ-Feynman package of LaTeX.<br/><br/><img src='/images/feynman.png' width="600">
 collection: software
 ---
 
