@@ -1,6 +1,6 @@
 ---
 title: "Development of offline tools for data quality monitoring of RPC detector status for Run 3 operations of the ATLAS experiment"
-excerpt: Offline detector analysis <br/><br/><img src='/images/spectrometer.jpg' width="600">
+excerpt: <i>Offline detector analysis</i> <br/><br/><img src='/images/spectrometer.jpg' width="600">
 collection: research
 ---
 
