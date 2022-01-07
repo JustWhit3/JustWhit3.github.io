@@ -1,6 +1,6 @@
 ---
 title: "higgs-decay-classification"
-excerpt: <b><span style="color:red;">Keywords</span></b> - <i>Python, machine learning, particle physics</i>. <br/>Classification of Higgs boson decays using machine learning.<br/><img src='/images/NN.png' width="600">
+excerpt: <b><span style="color:red;">Keywords</span></b> - <i>Python, machine learning, particle physics</i>. <br/><br/>Classification of Higgs boson decays using machine learning.<br/><img src='/images/NN.png' width="600">
 collection: software
 ---
 
