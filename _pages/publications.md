@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<hr style="height:0.3px;border:none;color:gray;background-color:gray;" />
+</hr style="height:0.3px;border:none;color:gray;background-color:gray;" />
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
