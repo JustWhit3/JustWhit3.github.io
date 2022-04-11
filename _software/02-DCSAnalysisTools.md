@@ -1,6 +1,6 @@
 ---
 title: "DCSAnalysisTools"
-excerpt: <b><span style="color:red;">Keywords</span></b> - <i>Python, Bash, particle physics, particle detectors</i>. <br/><br/>A framework with tools for analyzing ATLAS RPC DCS data.<br/><br/><img src='/images/muon_spectrometer.png' width="450">
+excerpt: <b><span style="color:red;">Keywords</span></b> - <i>Python, Bash, particle physics, particle detectors</i>. <br/><br/>A framework with tools for analyzing ATLAS RPC DCS data.<br/><br/><img src='/images/muon_spectrometer.jpg' width="450">
 collection: software
 ---
 
