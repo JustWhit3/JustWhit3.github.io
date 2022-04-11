@@ -1,7 +1,7 @@
 ---
 title: "arsenalgear"
 excerpt: <b><span style="color:red;">Keywords</span></b> - <i>C++, Python, Bash, GNU make</i>. <br/><br/>About
-A library containing general purpose utils I developed for other projects. Installation available for C++ and Python both.<br/><br/><img src='/images/logo_arsenalgear.png' width="600">
+A library containing general purpose utils I developed for other projects. Installation available for C++ and Python both.<br/><br/><img src='/images/logo_arsenalgear.svg' width="600">
 collection: software
 ---
 
