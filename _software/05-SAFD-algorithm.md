@@ -1,6 +1,6 @@
 ---
 title: "SAFD-algorithm"
-excerpt: <b><span style="color:red;">Keywords</span></b> - <i>C++, quantum mechanics, mathematics, algorithm</i>. <br/><br/>Implementation of an algorithm to compute the coefficients of a function development in a spherical harmonics convergent series.<br/><img src='/images/spharm.jpg' width="600">
+excerpt: <b><span style="color:red;">Keywords</span></b> - <i>C++, quantum mechanics, mathematics, algorithm</i>. <br/><br/>Implementation of an algorithm to compute the coefficients of a function development in a spherical harmonics convergent series.<br/><img src='/images/logo_safd.svg' width="450">
 collection: software
 ---
 
