@@ -16,4 +16,4 @@ My scientific interests are related to **elementary particle physics** and in pa
 
 Other fields that fascinate me are: data science, computer science, quantum computing and cosmology. I am also passionate about **coding** and **software development** and I like learning new programming languages and develop new algorithms and libraries as a hobby. My **personal projects** can be found directly at my [GitHub](https://github.com/JustWhit3) page.
 
-<br/><img src='http://JustWhit3.github.io/images/fb.jpg'>
+<br/><img src='http://JustWhit3.github.io/images/SIF_talk.jpg'>
