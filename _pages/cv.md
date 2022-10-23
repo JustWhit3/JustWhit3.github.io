@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Direct link to my curriculum pdf](http://JustWhit3.github.io/files/cv.pdf)
+[Direct link to my curriculum pdf](http://JustWhit3.github.io/files/curriculum.pdf)
 
 <hr style="height:0.3px;border:none;color:gray;background-color:gray;" />
 
@@ -32,7 +32,8 @@ Teaching experience
 ======
 
 * (02/2021 - Now): **Teaching tutor**, University of Bologna, Bologna, Italy. Courses:
-  * [*Fenomeni termici*](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/434312) at bachelor of physics.
+  * [*Programmazione per la Fisica*](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/485310) at bachelor of physics.
+  * [*Fenomeni Termici*](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/434312) at bachelor of physics.
   * [*Laboratorio di Elettromagnetismo e Ottica [Modulo 3]*](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/434322) at bachelor of physics.
   * [*Laboratorio di Meccanica e Termodinamica [Modulo 4]*](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/434313) at bachelor of physics.
   * [*Fisica Generale T*](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2020/414325) at building engineering.
@@ -56,50 +57,10 @@ Awards
 * (07/2021): **PhD fellowship** of INFN in Physics
 * (07/2021): **PhD fellowship** of INFN in Data Science and Computation
 
-Skills
+Relevant Publications
 ======
 
-## Languages
-
-* **Italian**: mother tongue.
-* **English**: C1.
-* **Spanish**: A2.
-
-
-## Software and Computing
-
-* **Programming**: C++, C, Python, LabVIEW.
-* **Scripting**: Bash, Python.
-* **Markup**: Latex (w/ Overleaf), XML, Markdown.
-* **Building**: GNU make, CMake.
-* **Testing**: pytest, doctest.
-* **Parallelization**: HTCondor.
-* **CI tools**: Git (w/ GitHub and GitLab).
-* **Data analysis**: ROOT (w/ RooFit, RooStat and RooUnfold), PyROOT, Pandas.
-* **Machine learning**: Keras, SciKit-Learn.
-* **Modeling**: Geant4, Athena.
-* **HEP software**: TTbarUnfold, pyTTbarDiffXs13TeV.
-* **IDE**: VS Code, Jupyter Notebook, Spyder, Emacs.
-* **Bug tracking**: Jira.
-* **Network protocols**: SSH.
-* **Operating systems**: Ubuntu, MS Windows, iOS.
-* **Audio editing**: FL Studio, Audacity.
-* **Productivity**: MS / Libre Office Word, Excell and Power Point.
-* **Other tools**: Matternmost, Stack Overflow.
-
-## Scientific Knowledge
-
-* **Data analysis**: Bayesian inference, unfolding methods, Monte Carlo simulations, statistics, modeling.
-* **Machine learning**: Deep learning, pattern recognition, data mining.
-* **Scientific computing**: Computational physics, quantum computing.
-* **Physics fields**: Classical, quantum, particle, nuclear and plasma physics, special and general relativity.
-* **Hardware**: Data acquisition and processing, analogical and digital electronics.
-* **Soft skills**: Leadership, teamwork, adaptability, problem solving, creativity, analytical skills, time
-management.
-* **Other skills**:  Research, advanced mathematics, science communication, outreach and education.
-
-Publications
-======
+Complete list of all my publications can be found [here](https://orcid.org/my-orcid?orcid=0000-0003-4473-7242).
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
