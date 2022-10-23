@@ -1,9 +1,9 @@
 ---
 title: "osmanip"
-excerpt: <b><span style="color:red;">Keywords</span></b> - <i>C++, Bash, GNU make</i>. <br/><br/>Library with useful output stream tools like color and styles manipulators, progress bars and much more.<br/><br/><img src='/images/logo_osmanip.svg' width="450">
+excerpt: <b><span style="color:red;">Keywords</span></b> - <i>C++, ANSI escape sequences, Utility</i>. <br/><br/>A library for output stream manipulation using ANSI escape sequences.
 collection: software
 ---
 
-Here I want to present you *osmanip*: my personal C++ library containing useful output-stream tools to customize your output stream. Probably there are already some similar libraries in the web that do the same job, but since I personally don't like them at all I preferred writing my own code for that. Thanks to this you can manipulate the output stream of your program with colors, styles (ex: bold, italics, etc...) and helper tools like progress bars and CPU-usage monitor objects. Using this feaures may be very useful to better read error messages or special information you want to be sure other users see when they run your code, or to adorn your general output stream log.
+*osmanip* is a C++ library containing useful tools to manipulate ANSI escape sequences and customize the output stream of your programs. Within this tools you can add colors and styles to the printed strings, change cursor location on the terminal and manage other tools like progress bars and terminal graphics. Using this features may be very useful to adorn your general output stream log or to perform cursor operations.
 
 [Project link](https://github.com/JustWhit3/osmanip)

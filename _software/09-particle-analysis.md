@@ -1,9 +1,0 @@
----
-title: "particle-analysis"
-excerpt: <b><span style="color:red;">Keywords</span></b> - <i>C++, particle physics, ROOT, data analysis</i>. <br/><br/>A project to simulate and analyse interactions with particles using the ROOT framework.<br/><br/><img src='/images/logo_particle.svg' width="450">
-collection: software
----
-
-This project simulates particle events generation and analysis by using only simulated data. Its purpose is of teaching bachelor's degree students in physics at University of Bologna, how a particle analysis works.
-
-[Project link](https://github.com/JustWhit3/particle-analysis)
