@@ -1,6 +1,6 @@
 ---
 title: "WaveNCC"
-excerpt: <b><span style="color:red;">Keywords</span></b> - <i>Python, quantum mechanics, numerical analysis</i>. <br/><br/>A program to compute the normalization coefficients of a given orthogonal 1-D complex wave function.<br/><img src='/images/logo_wavencc.svg' width="450">
+excerpt: <b><span style="color:red;">Keywords</span></b> - <i>Python, quantum mechanics, numerical analysis</i>. <br/><br/>A program to compute the normalization coefficients of a given orthogonal 1-D complex wave function.
 collection: software
 ---
 
