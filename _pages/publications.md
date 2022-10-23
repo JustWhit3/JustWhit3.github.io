@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Complete list of all my publications can be found [here](https://orcid.org/my-orcid?orcid=0000-0003-4473-7242).
+
 <hr style="height:0.3px;border:none;color:gray;background-color:gray;" />
 
 {% if author.googlescholar %}
