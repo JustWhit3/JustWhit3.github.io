@@ -18,7 +18,7 @@ Other fields that fascinate me are: data science, computer science, quantum comp
 
 <p align="center"><b>Talk at SIF conference (09/2022)</b></p>
 
-<img src='http://JustWhit3.github.io/images/SIF_talk.jpg'><br/>
+<img src='http://JustWhit3.github.io/images/SIF_talk.jpg'><br/><br/>
 
 <p align="center"><b>Bachelor degree (07/2018)</b></p>
 
