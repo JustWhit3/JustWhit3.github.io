@@ -16,7 +16,7 @@ Currently engaged in research for the CERN  [*ATLAS* experiment](https://atlas.c
 
 I am also passionate about **coding** and **software development** in general and I like learning new programming languages and develop new algorithms and libraries as a hobby. My **personal projects** can be found directly at my [GitHub](https://github.com/JustWhit3) page.
 
-<p align="center"><b>Talk at the ACAT conference (02/2024)</b></p>
+<p align="center"><b>Talk at the ACAT conference (03/2024)</b></p>
 
 <img src='http://JustWhit3.github.io/images/acat.jpg'><br/>
 
