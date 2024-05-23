@@ -1,6 +1,6 @@
 ---
 title: "Study of the Higgs boson Yukawa coupling to τ leptons with the ATLAS detector"
-excerpt: <i>Higgs-boson physics</i>
+excerpt: <i>Higgs-boson physics (data analysis)</i>
 collection: research
 ---
 
