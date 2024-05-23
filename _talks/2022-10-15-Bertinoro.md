@@ -9,5 +9,4 @@ date: 2022-10-15
 location: "Bertinoro, Italy"
 ---
 
-
-[Download talk here](http://JustWhit3.github.io/files/poster_ESC.pdf)
+[Link to the poster](https://www.dropbox.com/s/nxx9lmon6dalw23/poster_ESC.pdf?dl=0)
