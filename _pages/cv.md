@@ -31,7 +31,7 @@ Teaching experience
 ======
 
 * (02/2021 - 10/2024): **Teaching tutor**, University of Bologna, Bologna, Italy. Courses:
-  * [*Informatics*](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2023/323868) at bachelor of mathematics.
+  * [*Informatica*](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2023/323868) at bachelor of mathematics.
   * [*Programmazione per la Fisica*](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/485310) at bachelor of physics.
   * [*Fenomeni Termici*](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/434312) at bachelor of physics.
   * [*Laboratorio di Elettromagnetismo e Ottica [Modulo 3]*](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/434322) x2 at bachelor of physics.
