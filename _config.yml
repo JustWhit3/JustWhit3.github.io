@@ -5,7 +5,7 @@ locale                   : "en-US"
 title                    : "Dr. Gianluca Bianco's website"
 title_separator          : "-"
 name                     : &name "Gianluca Bianco"
-description              : &description "PhD student at the university of Bologna and associate member of INFN"
+description              : &description "PhD in physics, member of the ATLAS experiment at CERN, passionate about software engineering and quantum computing"
 url                      : https://JustWhit3.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JustWhit3.github.io"
@@ -82,7 +82,7 @@ analytics:
 #======================================
 author:
   name             : "Dr. Gianluca Bianco"
-  avatar           : "profile_picture_2.png"
+  avatar           : "profile_picture_2.jpg"
   bio              : "PhD student and teaching tutor at the university of Bologna (department of Physics and Astronomy), associate member of INFN and member of the CERN ATLAS experiment."
   location         : "Bologna, Italy"
   employer         :
