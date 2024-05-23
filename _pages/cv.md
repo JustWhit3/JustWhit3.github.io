@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[Direct link to my curriculum pdf](http://JustWhit3.github.io/files/curriculum.pdf)
-
 <hr style="height:0.3px;border:none;color:gray;background-color:gray;" />
 
 {% include base_path %}
@@ -16,14 +14,15 @@ redirect_from:
 Education
 ======
 
-* (11/2021 - Now): **Ph.D** in *Elementary Particle Physics*, University of Bologna, Bologna, Italy
+* (11/2021 - 10/2024): **Ph.D** in *Physics*, University of Bologna, Bologna, Italy
 * (10/2018 - 12/2020): **M.S.** in *Nuclear and Subnuclear Physics*, University of Bologna, Bologna, Italy
 * (10/2015 - 07/2018): **B.S.** in *Physics*, University of Bologna, Bologna, Italy
 
 Scientific experience
 ======
 
-* (11/2021 - Now): **Doctoral researcher** at the CERN ATLAS experiment, INFN, Bologna, Italy
+* (11/2021 - 10/2024): **Doctoral researcher** at the CERN ATLAS experiment, INFN, Bologna, Italy
+* (09/2023 - 02/2024): **Assistant researcher** at the CERN ATLAS experiment, CERN, Geneve, Switzerland
 * (07/2021 - 10/2021): **Postgraduate researcher** at the CERN ATLAS experiment, INFN, Bologna, Italy
 * (04/2020 - 11/2020): **Master's degree trainee** at the CERN ATLAS experiment, INFN, Bologna, Italy
 * (12/2019 - 05/2020): **Tandem project trainee** at the CERN ATLAS experiment, iTHEPHY, Bologna, Italy
@@ -31,15 +30,16 @@ Scientific experience
 Teaching experience
 ======
 
-* (02/2021 - Now): **Teaching tutor**, University of Bologna, Bologna, Italy. Courses:
+* (02/2021 - 10/2024): **Teaching tutor**, University of Bologna, Bologna, Italy. Courses:
+  * [*Informatics*](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2023/323868) at bachelor of mathematics.
   * [*Programmazione per la Fisica*](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/485310) at bachelor of physics.
   * [*Fenomeni Termici*](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/434312) at bachelor of physics.
-  * [*Laboratorio di Elettromagnetismo e Ottica [Modulo 3]*](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/434322) at bachelor of physics.
+  * [*Laboratorio di Elettromagnetismo e Ottica [Modulo 3]*](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/434322) x2 at bachelor of physics.
   * [*Laboratorio di Meccanica e Termodinamica [Modulo 4]*](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/434313) at bachelor of physics.
   * [*Fisica Generale T*](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2020/414325) at building engineering.
 
-* (03/2021 - Now): **Mentor**, HEP Software Foundation, Online. Courses:
-  * [*HEP C++ Course and Hands-on Training*](https://indico.cern.ch/event/1019089/).
+* (03/2021 - Now): **Mentor**, HEP Software Foundation, CERN, Geneve, Switzerland. Courses:
+  * [*HEP C++ Course and Hands-on Training*](https://indico.cern.ch/event/1019089/) x2.
 
 Outreach experience
 ======
