@@ -22,7 +22,7 @@ I am also passionate about **coding** and **software development** in general an
 
 <p align="center"><b>Talk at the ATLAS Italy top workshop (01/2024)</b></p>
 
-<img src='http://JustWhit3.github.io/images/ATLAS.jpg'><br/>
+<img src='http://JustWhit3.github.io/images/top_talk.JPG'><br/>
 
 <p align="center"><b>Me with the ATLAS experiment at CERN (10/2023)</b></p>
 
