@@ -1,6 +1,6 @@
 ---
 title: "QUnfold: Quantum Annealing for Distributions Unfolding in High-Energy Physics"
-excerpt: <i>Quantum computing (software development)</i>
+excerpt: <i> (2023 - 2024) Quantum computing (software development)</i>
 collection: research
 ---
 

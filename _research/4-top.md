@@ -1,6 +1,6 @@
 ---
 title: "Measurement of differential ttbar cross section in the resolved l+jets channel in pp collisions at center-of-mass energy of 13 TeV using the ATLAS detector"
-excerpt: <i>Top-quark physics (data analysis)</i>
+excerpt: <i> (2021 - 2024) Top-quark physics (data analysis)</i>
 collection: research
 ---
 

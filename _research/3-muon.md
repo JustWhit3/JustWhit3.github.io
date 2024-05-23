@@ -1,6 +1,6 @@
 ---
 title: "Development of offline tools for ATLAS RPC detector performance monitoring analyzing the DCS data"
-excerpt: <i>Offline detector data analysis and software development</i>
+excerpt: <i> (2021 - 2024) Offline detector data analysis and software development</i>
 collection: research
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Measurement of differential cross-sections of WbWb production in the dilepton channel in pp collisions at center-of-mass energy of 13 TeV using the ATLAS detector"
-excerpt: <i>Top-quark physics (data analysis)</i>
+excerpt: <i> (2020 - 2024) Top-quark physics (data analysis)</i>
 collection: research
 ---
 
