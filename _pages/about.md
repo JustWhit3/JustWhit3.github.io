@@ -10,7 +10,7 @@ redirect_from:
 
 <br/><img src='http://JustWhit3.github.io/images/emc.jpeg'>
 
-I'm a PhD student in physics at the [*Alma Mater Studiorum - University of Bologna*](https://www.unibo.it/it), complemented by a solid foundation in computer science, backed by over 3 years of combined experience in physics and IT domains. 
+I'm a PhD student in **physics** at the [*Alma Mater Studiorum - University of Bologna*](https://www.unibo.it/it), complemented by a solid foundation in **computer science**, backed by over 3 years of combined experience in physics and IT domains. 
 
 Currently engaged in research for the CERN  [*ATLAS* experiment](https://atlas.cern/), my primary interests lie in **software engineering**, **quantum computing**, and **high-performance computing** applied to **particle physics**. Additionally, I'm keen on exploring **data science** and **artificial intelligence** areas.
 
