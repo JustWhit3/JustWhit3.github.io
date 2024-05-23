@@ -9,7 +9,6 @@ author_profile: true
 
 <hr style="height:0.3px;border:none;color:gray;background-color:gray;" />
 
-{% for post in site.software %}
-  {% include archive-single.html %}
+{% for post in site.software reversed %}
+{% include archive-single.html %}
 {% endfor %}
-
