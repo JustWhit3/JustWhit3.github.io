@@ -52,7 +52,7 @@ Outreach experience
 Awards
 ======
 
-* (08/2021): **3rd place at the ”Annamaria Cartacci” award** for the best particle physics M.S thesis of year 2020
+* (05/2023): **Marco Polo fellowship** for the mobility of 3 months abroad for research
 * (07/2021): **Postgraduate fellowship** for scientific training activities
 * (07/2021): **PhD fellowship** of INFN in Physics
 * (07/2021): **PhD fellowship** of INFN in Data Science and Computation
